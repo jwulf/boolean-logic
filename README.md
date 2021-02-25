@@ -2,6 +2,8 @@
 
 Formalised by George Boole.
 
+[![](img/video.png)](https://www.youtube.com/watch?v=y5Md132yIKM)
+
 Watch the video of this here: [https://www.youtube.com/watch?v=y5Md132yIKM](https://www.youtube.com/watch?v=y5Md132yIKM).
 
 # Bit
